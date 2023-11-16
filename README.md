@@ -38,12 +38,15 @@ The professional environment has become an invaluable learning experience, compl
 
 <br/>  
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
 
 
-# 📊 GitHub Stats:
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicNKR&&theme=city_light&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
 
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=devisriprasad9999&hide_border=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicNKR&&theme=city_light&hide_border=true&layout=compact)https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicNKR&&theme=city_light&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
