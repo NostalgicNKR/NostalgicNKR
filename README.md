@@ -39,10 +39,9 @@ The professional environment has become an invaluable learning experience, compl
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="60%" style="overflow-x: hidden;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicNKR&&theme=city_light&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NostalgicNKR&&theme=city_light&hide_border=true&layout=compact" align="left" style="width: 40%" />
+
 
 <br/>  
